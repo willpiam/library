@@ -30,4 +30,13 @@
 | The Ancient of Days | William Blake  | https://upload.wikimedia.org/wikipedia/commons/a/ac/Europe_a_Prophecy_copy_K_plate_01.jpg |
 
 
+## Podcasts
+
+| Title                                        | Credit                     | Reference                                             |
+| -------------------------------------------- | -------------------------- | ----------------------------------------------------- |
+| Lex Fridman Podcast, Stephen Wolfram Round 1 |                            | https://lexfridman.com/stephen-wolfram                |
+| Lex Fridman Podcast, Stephen Wolfram Round 2 |                            | https://lexfridman.com/stephen-wolfram-2              |
+| Lex Fridman Podcast, Stephen Wolfram Round 3 |                            | https://lexfridman.com/stephen-wolfram-3              |
+| Lex Fridman Podcast, Stephen Wolfram Round 4 |                            | https://lexfridman.com/stephen-wolfram-4              |
+
 
