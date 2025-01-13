@@ -2,10 +2,12 @@
 
 ## Books
 
-| Title       | Author | Read    | Reference | 
-| ----------- | ------ | ------- | --------- |
-| Nag Hammadi |        | partial |           |
-| Meditations |        | no      |           |
+| Title                                                     | Author          | Read    | Reference                               | 
+| ----------------------------------------------------------| --------------- | ------- | --------------------------------------- |
+| Nag Hammadi                                               |                 | partial |                                         |
+| Meditations                                               |                 | no      |                                         |
+| A New Kind Of Science                                     | Stephen Wolfram | partial | https://www.wolframscience.com/nks/     |
+| A Project to Find the Fundamental Theory of Physics       | Stephen Wolfram | no      | https://www.wolframphysics.org/technical-introduction/ or https://arxiv.org/pdf/2004.08210 |
 
 ## Papers
 
