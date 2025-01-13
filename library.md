@@ -5,7 +5,7 @@
 | Title       | Author | Read    | Reference | 
 | ----------- | ------ | ------- | --------- |
 | Nag Hammadi |        | partial |           |
-| meditations |        | no      |           |
+| Meditations |        | no      |           |
 
 ## Papers
 
@@ -13,6 +13,14 @@
 | -----------------------------------------------------------   | ------------------------------------------------- | ------- | --------- |
 | The Bitcoin Backbone Protocol: Analysis and Applications      | Juan A. Garay & Aggelos Kiayias & Nikos Leonardos | no      | https://eprint.iacr.org/2014/765.pdf |
 | Long-lived digital integrity using short-lived hash functions | Stuart Haber					    | yes     | https://eprint.iacr.org/2007/238.pdf |
+
+
+## Other Texts
+
+| Title                   | Author      | Reference                                                      |
+| ----------------------- | ----------- | -------------------------------------------------------------- |
+| Cardano Constitution    | Various     | https://pool.pm/asset1tjkjznu0y9k5k4u45guh3vl8ty5rklu2qclpn7   |
+
 
 ## Paintings
 
